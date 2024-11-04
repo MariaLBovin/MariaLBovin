@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**MariaLBovin/MariaLBovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+🙍‍♂️ **Name**: Maria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 **Location**: Stockholm
+
+💼 **Work**: Open to work
+
+## 🛠 Skills
+- HTML & CSS/SCSS/LESS
+- JavaScript
+- TypeScript
+- Jest
+- React
+- Vue
+- Node.js
+- Express
+- Google Firebase
+- Git
+- Azure DevOps
+- Figma
+- WCAG
+
+## Contact
+💡 **My LinkedIn**: [https://www.linkedin.com/in/mariabovin/](https://www.linkedin.com/in/mariabovin/)
+
+📫 **How to reach me**: maria.bovin@gmail.com
